@@ -1,0 +1,13 @@
+{
+    "name": "express-sse-example",
+    "version": "1.0.0",
+    "description": "Example of an Express.js server with SSE endpoint",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.2"
+    }
+}
